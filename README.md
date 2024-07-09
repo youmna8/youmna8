@@ -56,7 +56,7 @@ yomna-hashem-251575210
 </a>
 <a href="https://github.com/youmna8?tab=followers"><img src="https://img.shields.io/github/followers/youmna8?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;">
 </h3>
 
 <br/>
